@@ -10,6 +10,22 @@
 #Contact Email juparker@microfocus.com
 #
 #
+# SCRIPT: EB Support Tool Main
+# Contributing AUTHORS: Justin
+# DATE:   04/14/2018
+# REV:    0.1.1 
+#
+## PLATFORM: Linux 
+#
+#
+### set -n   
+# Uncomment to check script syntax, without execution.
+#          
+# NOTE: Do not forget to put the comment back in or        
+#       the shell script will not execute
+#set -x   
+#Uncomment to debug this shell script
+#######################################
 #!/bin/bash
 #
 #Present Event Broker Support Tool Main Menu
